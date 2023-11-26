@@ -1,13 +1,16 @@
 {
-  "version": 1.01,
-  "message": "Data fetched successfully!",
+  "version": 1.02,
+  "message": "ดึงข้อมูลสำเร็จ!",
   "data": [
     {
-      "name": "Thailand TRUE-No-PRO_IS-01",
+      "name": "Thailand TRUE-NoPRO_IS-01",
       "content": "vmess://eyJhZGQiOiIxMDQuMTguMTAuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpbnNwYWNlLTEudGhhaS12cG4uY29tIiwiaWQiOiIxZTU0MDhmZS0zMjg5LTQwNDktYWJlOS1hMjQ3NDgwODA2OGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiJUUlVFIE5vLVByby00OHo1eGttMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }, {
       "name": "Thailand DTAC-Line_IS-01",
-      "content": "vmess://eyJhZGQiOiJpbnNwYWNlLTEudGhhaS12cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5YjcyMjMwLTQwY2MtNGM5Yi1iNjJmLWE3YTVlYjBkMjM5MiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjExMTEzIiwicHMiOiJEVEFDLUxpbmUtdWR1bjVqNXAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
-    }
+      "content": "vmess://eyJhZGQiOiJpbnNwYWNlLTEudGhhaS12cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYy5uYXZlci5jb20iLCJpZCI6ImM5YjcyMjMwLTQwY2MtNGM5Yi1iNjJmLWE3YTVlYjBkMjM5MiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjExMTEzIiwicHMiOiJEVEFDLUxpbmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+    }, {
+      "name": "Thailand AIS-AisPlay_IS-01",
+      "content": "vmess://eyJhZGQiOiJpbnNwYWNlLTEudGhhaS12cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiIzOTllNTliMy03NjJiLTQ5ZWYtYTBmOS0xYTNjNmFjNGFmYTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJBSVMtQWlzcGxheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+    }	
   ]
 }
