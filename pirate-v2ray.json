@@ -32,6 +32,15 @@
     }, {
       "name": "TH AIS-AisPlay_MC-02",
       "content": "vless://ee2a2f3d-f2c0-42c5-b130-a6fb19e5ca06@mcloud-2.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
-    }	
+    }, {
+      "name": "SG TRUE-NoPRO_Contabo",
+      "content": "vless://ee2a2f3d-f2c0-42c5-b130-a6fb19e5ca06@104.18.10.161:80/?type=ws&encryption=none&host=mcloud-2.thai-vpn.com&path=%2Fray"
+    }, {
+      "name": "SG DTAC-Line_Contabo",
+      "content": "vless://ee2a2f3d-f2c0-42c5-b130-a6fb19e5ca06@mcloud-2.thai-vpn.com:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "SG AIS-AisPlay_Contabo",
+      "content": "vless://ee2a2f3d-f2c0-42c5-b130-a6fb19e5ca06@mcloud-2.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    }
   ]
 }
