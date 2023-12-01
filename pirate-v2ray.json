@@ -1,5 +1,5 @@
 {
-  "version": 1.09,
+  "version": 1.10,
   "message": "ดึงข้อมูลสำเร็จแล้ว กด ยืนยัน",
   "data": [
     {
@@ -23,9 +23,6 @@
     }, {
       "name": "TH TRUE-NoPRO_MC-02",
       "content": "vless://ee2a2f3d-f2c0-42c5-b130-a6fb19e5ca06@104.18.10.161:80/?type=ws&encryption=none&host=mcloud-2.thai-vpn.com&path=%2Fray"
-    }, {
-      "name": "TH TRUE-Social_MC-02",
-      "content": "vless://ee2a2f3d-f2c0-42c5-b130-a6fb19e5ca06@mcloud-2.thai-vpn.com:11112/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     }, {
       "name": "TH DTAC-Line_MC-02",
       "content": "vless://ee2a2f3d-f2c0-42c5-b130-a6fb19e5ca06@mcloud-2.thai-vpn.com:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
