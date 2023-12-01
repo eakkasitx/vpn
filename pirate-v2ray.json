@@ -41,6 +41,15 @@
     }, {
       "name": "SG AIS-AisPlay_Contabo",
       "content": "vless://f38fc7e0-c28f-496b-87bd-d547e24ea86b@contabo-sg-2.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "TH TRUE-NoPRO_Games_VH-01",
+      "content": "vless://62896564-25ec-491f-a0b3-64db52ffe535@104.18.10.161:80/?type=ws&encryption=none&host=visperhost-1.thai-vpn.com&path=%2Fray"
+    }, {
+      "name": "TH DTAC-Line_Games_VH-01",
+      "content": "vless://62896564-25ec-491f-a0b3-64db52ffe535@visperhost-1.thai-vpn.com:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "TH AIS-AisPlay_Games_VH-01",
+      "content": "vless://62896564-25ec-491f-a0b3-64db52ffe535@visperhost-1.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }
   ]
 }
