@@ -47,6 +47,15 @@
     }, {
       "name": "TH AIS-AisPlay_Games_VH-01",
       "content": "vless://62896564-25ec-491f-a0b3-64db52ffe535@visperhost-1.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "TH TRUE-NoPRO_3BB",
+      "content": "vless://12a51c73-70b8-41a4-864a-6f6a7018e8b5@104.18.10.161:80/?type=ws&encryption=none&host=wanghin-3bb.thai-vpn.com&path=%2Fray"
+    }, {
+      "name": "TH DTAC-Line_3BB",
+      "content": "vless://12a51c73-70b8-41a4-864a-6f6a7018e8b5@wanghin-3bb.thai-vpn.com:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
+    }, {
+      "name": "TH AIS-AisPlay_3BB",
+      "content": "vless://12a51c73-70b8-41a4-864a-6f6a7018e8b5@wanghin-3bb.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }
   ]
 }
