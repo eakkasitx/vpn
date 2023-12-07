@@ -3,14 +3,14 @@
   "message": "ดึงข้อมูลสำเร็จแล้ว กด ยืนยัน",
   "data": [
     {
-      "name": "TH TRUE-NoPRO_IS-01",
-      "content": "vmess://eyJhZGQiOiIxMDQuMTguMTAuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpbnNwYWNlLTEudGhhaS12cG4uY29tIiwiaWQiOiIwOGNjMjFiZC04NDgyLTQ0NTktOTNhOS1lYTczYWY4ZDI0OWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "name": "TH TRUE-NoPRO_IS",
+      "content": "vless://4734c7b6-02c9-4cb9-9768-fd7cc6cb9dfd@104.18.10.161:80/?type=ws&encryption=none&host=balance-inspace.thai-vpn.com&path=%2Fray"
     }, {
-      "name": "TH DTAC-Line_IS-01",
-      "content": "vmess://eyJhZGQiOiJpbnNwYWNlLTEudGhhaS12cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYy5uYXZlci5jb20iLCJpZCI6ImM5YjcyMjMwLTQwY2MtNGM5Yi1iNjJmLWE3YTVlYjBkMjM5MiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjExMTEzIiwicHMiOiJEVEFDLUxpbmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+      "name": "TH DTAC-Line_IS",
+      "content": "vless://4734c7b6-02c9-4cb9-9768-fd7cc6cb9dfd@balance-inspace.thai-vpn.com:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
     }, {
-      "name": "TH AIS-AisPlay_IS-01",
-      "content": "vmess://eyJhZGQiOiJpbnNwYWNlLTEudGhhaS12cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiIzOTllNTliMy03NjJiLTQ5ZWYtYTBmOS0xYTNjNmFjNGFmYTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJBSVMtQWlzcGxheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+      "name": "TH AIS-AisPlay_IS",
+      "content": "vless://4734c7b6-02c9-4cb9-9768-fd7cc6cb9dfd@balance-inspace.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
       "name": "TH TRUE-NoPRO_MC-01",
       "content": "vmess://eyJhZGQiOiIxMDQuMTguMTAuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2xvdWQtMS50aGFpLXZwbi5jb20iLCJpZCI6IjUzOThhYzAwLWVlYjItNDE1ZS1iMTU0LTA3Y2NiOWM3YTk2OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUUgTm9wcm8gTUMgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
