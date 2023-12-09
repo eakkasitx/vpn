@@ -1,5 +1,5 @@
 {
-  "version": 1.14,
+  "version": 1.15,
   "message": "ดึงข้อมูลสำเร็จแล้ว กด ยืนยัน",
   "data": [
     {
@@ -10,25 +10,16 @@
       "content": "vless://4734c7b6-02c9-4cb9-9768-fd7cc6cb9dfd@balance-inspace.thaivpn.uk:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
     }, {
       "name": "TH AIS-AisPlay_IS",
-      "content": "vless://4734c7b6-02c9-4cb9-9768-fd7cc6cb9dfd@balance-inspace.thaivpn.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "content": "vless://4734c7b6-02c9-4cb9-9768-fd7cc6cb9dfd@balance-inspace.thaivpn.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http" 
     }, {
-      "name": "TH TRUE-NoPRO_MC-01",
-      "content": "vmess://eyJhZGQiOiIxMDQuMTguMTAuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2xvdWQtMS50aGFpLXZwbi5jb20iLCJpZCI6IjUzOThhYzAwLWVlYjItNDE1ZS1iMTU0LTA3Y2NiOWM3YTk2OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRSVUUgTm9wcm8gTUMgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+      "name": "TH TRUE-NoPRO_MC",
+      "content": "vless://4734c7b6-02c9-4cb9-9768-fd7cc6cb9dfd@104.18.10.161:80/?type=ws&encryption=none&host=balance-mcloud.thaivpn.uk&path=%2Fray"
     }, {
-      "name": "TH AIS-AisPlay_MC-01",
-      "content": "vmess://eyJhZGQiOiJtY2xvdWQtMS50aGFpLXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjU3YmYzNmVmLWJjZjAtNDU4NC04ZjMwLTA2NDgyOTRmNmE3MSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkFJUy1BaXNwbGF5IE1DMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+      "name": "TH DTAC-Line_MC",
+      "content": "vless://4734c7b6-02c9-4cb9-9768-fd7cc6cb9dfd@balance-mcloud.thaivpn.uk:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
     }, {
-      "name": "TH DTAC-Line_MC-01",
-      "content": "vmess://eyJhZGQiOiJtY2xvdWQtMS50aGFpLXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNjLm5hdmVyLmNvbSIsImlkIjoiZjRhNDAyMTQtZWM1Mi00OGQ2LTg2NDgtZmQzMjk4MzZhYjRjIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTExMTMiLCJwcyI6IkRUQUMtTGluZSBNQzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH TRUE-NoPRO_MC-02",
-      "content": "vless://b215e2de-3c88-4974-99cd-73a3d7273f70@104.18.10.161:80/?type=ws&encryption=none&host=mcloud-2.thai-vpn.com&path=%2Fray"
-    }, {
-      "name": "TH DTAC-Line_MC-02",
-      "content": "vless://b215e2de-3c88-4974-99cd-73a3d7273f70@mcloud-2.thai-vpn.com:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
-    }, {
-      "name": "TH AIS-AisPlay_MC-02",
-      "content": "vless://b215e2de-3c88-4974-99cd-73a3d7273f70@mcloud-2.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+      "name": "TH AIS-AisPlay_MC",
+      "content": "vless://4734c7b6-02c9-4cb9-9768-fd7cc6cb9dfd@balance-mcloud.thaivpn.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
       "name": "SG TRUE-NoPRO_Contabo",
       "content": "vless://b215e2de-3c88-4974-99cd-73a3d7273f70@104.18.10.161:80/?type=ws&encryption=none&host=contabo-sg-2.thai-vpn.com&path=%2Fray"
