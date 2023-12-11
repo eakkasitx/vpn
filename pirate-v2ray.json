@@ -1,10 +1,10 @@
 {
-  "version": 1.16,
+  "version": 1.17,
   "message": "ดึงข้อมูลสำเร็จแล้ว กด ยืนยัน",
   "data": [
     {
       "name": "TH TRUE-NoPRO_IS",
-      "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@104.18.10.161:80/?type=ws&encryption=none&host=balance-inspace.thaivpn.uk&path=%2Fray"
+      "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@0:0:0:0:0:FFFF:6812:BA1:80/?type=ws&encryption=none&host=balance-inspace.thaivpn.uk&path=%2Fray"
     }, {
       "name": "TH DTAC-Line_IS",
       "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@balance-inspace.thaivpn.uk:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
@@ -13,7 +13,7 @@
       "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@balance-inspace.thaivpn.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http" 
     }, {
       "name": "TH TRUE-NoPRO_MC",
-      "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@104.18.10.161:80/?type=ws&encryption=none&host=balance-mcloud.thaivpn.uk&path=%2Fray"
+      "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@0:0:0:0:0:FFFF:6812:BA1:80/?type=ws&encryption=none&host=balance-mcloud.thaivpn.uk&path=%2Fray"
     }, {
       "name": "TH DTAC-Line_MC",
       "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@balance-mcloud.thaivpn.uk:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
@@ -22,7 +22,7 @@
       "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@balance-mcloud.thaivpn.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
       "name": "SG TRUE-NoPRO_Contabo",
-      "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@104.18.10.161:80/?type=ws&encryption=none&host=contabo-sg-2.thai-vpn.com&path=%2Fray"
+      "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@0:0:0:0:0:FFFF:6812:BA1:80/?type=ws&encryption=none&host=contabo-sg-2.thai-vpn.com&path=%2Fray"
     }, {
       "name": "SG DTAC-Line_Contabo",
       "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@contabo-sg-2.thai-vpn.com:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
@@ -31,7 +31,7 @@
       "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@contabo-sg-2.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
       "name": "TH TRUE-NoPRO_Games_VH-01",
-      "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@104.18.10.161:80/?type=ws&encryption=none&host=visperhost-1.thai-vpn.com&path=%2Fray"
+      "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@0:0:0:0:0:FFFF:6812:BA1:80/?type=ws&encryption=none&host=visperhost-1.thai-vpn.com&path=%2Fray"
     }, {
       "name": "TH DTAC-Line_Games_VH-01",
       "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@visperhost-1.thai-vpn.com:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
@@ -40,7 +40,7 @@
       "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@visperhost-1.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
       "name": "TH TRUE-NoPRO_3BB",
-      "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@104.18.10.161:80/?type=ws&encryption=none&host=wanghin-3bb.thai-vpn.com&path=%2Fray"
+      "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@0:0:0:0:0:FFFF:6812:BA1:80/?type=ws&encryption=none&host=wanghin-3bb.thai-vpn.com&path=%2Fray"
     }, {
       "name": "TH DTAC-Line_3BB",
       "content": "vless://0aa84768-7c03-456a-aef4-5f1034424fb4@wanghin-3bb.thai-vpn.com:11111/?encryption=none&host=cc.naver.com&path=%2F&type=tcp&headerType=http"
