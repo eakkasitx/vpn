@@ -1,5 +1,5 @@
 {
-  "version": 1.23,
+  "version": 1.24,
   "message": "ดึงข้อมูลสำเร็จแล้ว กด ยืนยัน",
   "data": [
     {
@@ -33,10 +33,13 @@
       "name": "TH AIS-AisPlay_3BB",
       "content": "vless://894b1834-00fa-400b-8e6a-08b487acca5b@wanghin-3bb.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
-      "name": "TH TRUE-NoPRO_สำรอง-เอาไว้ update",
+      "name": "TH TRUE-NoPRO_เอาไว้สำหรับ update",
       "content": "vmess://eyJhZGQiOiIxMDQuMTguMTAuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2aXNwZXJob3N0LTIudGhhaS12cG4uY29tIiwiaWQiOiI2YTBiNzMyOC00YWY2LTRlZDAtOGYxOC03MDk1NmRiOTA5ZGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
-      "name": "TH AIS-AisPlay_สำรอง-เอาไว้ update",
+      "name": "TH TRUE-เฟสบุ๊คเกมมิ่ง_เอาไว้สำหรับ update",
+      "content": "vmess://eyJhZGQiOiJ2aXNwZXJob3N0LTIudGhhaS12cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFlZDU1NTZiLTY1MmYtNDdkYS05Zjk4LTkwZDQ0MDA3Y2RkMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTExMTEiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYmNkbi5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    }, {
+      "name": "TH AIS-AisPlay_เอาไว้สำหรับ update",
       "content": "vmess://eyJhZGQiOiJ2aXNwZXJob3N0LTIudGhhaS12cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI2YTBiNzMyOC00YWY2LTRlZDAtOGYxOC03MDk1NmRiOTA5ZGYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
     }
   ]
