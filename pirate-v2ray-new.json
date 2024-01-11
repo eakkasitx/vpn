@@ -9,7 +9,7 @@
       "name": "TH DTAC-NoPRO_IS",
       "content": "vless://0e2ea00e-07df-4656-bf78-c63405b2cc64@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=balance-inspace.thaivpn.uk&path=%2Fray"
     }, {
-      "name": "TH TRUE-เฟสบุ๊คเกมมิ่ง_IS",
+      "name": "TH TRUE-PROGaming_IS",
       "content": "vless://0e2ea00e-07df-4656-bf78-c63405b2cc64@balance-inspace.thaivpn.uk:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     }, {
       "name": "TH AIS-AisPlay_IS",
@@ -21,7 +21,7 @@
       "name": "TH DTAC-NoPRO_MC",
       "content": "vless://0e2ea00e-07df-4656-bf78-c63405b2cc64@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=balance-mcloud.thaivpn.uk&path=%2Fray"
     }, {
-      "name": "TH TRUE-เฟสบุ๊คเกมมิ่ง_MC",
+      "name": "TH TRUE-PROGaming_MC",
       "content": "vless://0e2ea00e-07df-4656-bf78-c63405b2cc64@balance-mcloud.thaivpn.uk:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     }, {
       "name": "TH AIS-AisPlay_MC",
@@ -33,7 +33,7 @@
       "name": "SG DTAC-NoPRO_Contabo",
       "content": "vless://0e2ea00e-07df-4656-bf78-c63405b2cc64@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=contabo-sg-2.thai-vpn.com&path=%2Fray"
     }, {
-      "name": "SG TRUE-เฟสบุ๊คเกมมิ่ง_Contabo",
+      "name": "SG TRUE-PROGaming_Contabo",
       "content": "vless://0e2ea00e-07df-4656-bf78-c63405b2cc64@contabo-sg-2.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     }, {
       "name": "SG AIS-AisPlay_Contabo",
@@ -45,7 +45,7 @@
       "name": "TH DTAC-NoPRO_Games_VH-01",
       "content": "vless://0e2ea00e-07df-4656-bf78-c63405b2cc64@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=visperhost-1.thai-vpn.com&path=%2Fray"
     }, {
-      "name": "TH TRUE-เฟสบุ๊คเกมมิ่ง_Games_VH-01",
+      "name": "TH TRUE-PROGaming_Games_VH-01",
       "content": "vless://0e2ea00e-07df-4656-bf78-c63405b2cc64@visperhost-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     }, {
       "name": "TH AIS-AisPlay_Games_VH-01",
@@ -57,7 +57,7 @@
       "name": "TH DTAC-NoPRO_3BB",
       "content": "vless://0e2ea00e-07df-4656-bf78-c63405b2cc64@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=wanghin-3bb.thai-vpn.com&path=%2Fray"
     }, {
-      "name": "TH TRUE-เฟสบุ๊คเกมมิ่ง_3BB",
+      "name": "TH TRUE-PROGaming_3BB",
       "content": "vless://0e2ea00e-07df-4656-bf78-c63405b2cc64@wanghin-3bb.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     }, {
       "name": "TH AIS-AisPlay_3BB",
@@ -66,11 +66,8 @@
       "name": "TH TRUE-NoPRO_เอาไว้สำหรับ update",
       "content": "vmess://eyJhZGQiOiJ0cnVlLW5vcHJvLm15d2lyZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZpc3Blcmhvc3QtMi50aGFpLXZwbi5jb20iLCJpZCI6IjYyZGNhMTRiLTBjM2QtNDY1Ny05OTlhLTQ3OGUzMzhmNjFkZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }, {
-      "name": "TH TRUE-เฟสบุ๊คเกมมิ่ง_เอาไว้สำหรับ update",
+      "name": "TH TRUE-PROGaming_เอาไว้สำหรับ update",
       "content": "vmess://eyJhZGQiOiJ2aXNwZXJob3N0LTIudGhhaS12cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYyZGNhMTRiLTBjM2QtNDY1Ny05OTlhLTQ3OGUzMzhmNjFkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTExMTEiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiJtLmZhY2Vib29rLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH AIS-AisPlay_เอาไว้สำหรับ update",
-      "content": "vmess://eyJhZGQiOiJ2aXNwZXJob3N0LTIudGhhaS12cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI2MmRjYTE0Yi0wYzNkLTQ2NTctOTk5YS00NzhlMzM4ZjYxZGYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
-    }
+    } 
   ]
 }
