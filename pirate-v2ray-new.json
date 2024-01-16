@@ -51,11 +51,17 @@
       "name": "TH AIS-AisPlay_Games_VH-01",
       "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@visperhost-1.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
-      "name": "TH TRUE-NoPRO_3BB",
+      "name": "TH TRUE-NoPRO_3BB-1",
       "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@true-nopro.thai-vpn.com:80/?type=ws&encryption=none&host=wanghin-3bb.thai-vpn.com&path=%2Fray"
     }, {
-      "name": "TH DTAC-NoPRO_3BB",
+      "name": "TH TRUE-NoPRO_3BB-2",
+      "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@true-nopro.thai-vpn.com:8880/?type=ws&encryption=none&host=wanghin-3bb.thai-vpn.com&path=%2Fray"
+    }, {
+      "name": "TH DTAC-NoPRO_3BB-1",
       "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=wanghin-3bb.thai-vpn.com&path=%2Fray"
+    }, {
+      "name": "TH DTAC-NoPRO_3BB-2",
+      "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@dtac.ddnsgeek.com:8880/?type=ws&encryption=none&host=wanghin-3bb.thai-vpn.com&path=%2Fray"
     }, {
       "name": "TH TRUE-PROGaming_3BB",
       "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@wanghin-3bb.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
