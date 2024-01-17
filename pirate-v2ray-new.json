@@ -4,7 +4,7 @@
   "data": [
     {
       "name": "TH TRUE-NoPRO_IS-1",
-      "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@true-nopro.thai-vpn.com:80/?type=ws&encryption=none&host=inspace-1.thaivpn.uk&path=%2Fray"
+      "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@0000:0000:0000:0000:0000:ffff:6812:0ba1:80/?type=ws&encryption=none&host=inspace-1.thaivpn.uk&path=%2Fray"
     }, {
       "name": "TH DTAC-NoPRO_IS-1",
       "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=inspace-1.thaivpn.uk&path=%2Fray"
@@ -16,7 +16,7 @@
       "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@inspace-1.thaivpn.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http" 
     }, {
       "name": "TH TRUE-NoPRO_IS-2",
-      "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@true-nopro.thai-vpn.com:80/?type=ws&encryption=none&host=inspace-2.thaivpn.uk&path=%2Fray"
+      "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@0000:0000:0000:0000:0000:ffff:6812:0ba1:80/?type=ws&encryption=none&host=inspace-2.thaivpn.uk&path=%2Fray"
     }, {
       "name": "TH DTAC-NoPRO_IS-2",
       "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=inspace-2.thaivpn.uk&path=%2Fray"
@@ -28,7 +28,7 @@
       "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@inspace-2.thaivpn.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http" 
     }, {
       "name": "TH TRUE-NoPRO_MC-1",
-      "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@true-nopro.thai-vpn.com:80/?type=ws&encryption=none&host=mcloud-1.thaivpn.uk&path=%2Fray"
+      "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@0000:0000:0000:0000:0000:ffff:6812:0ba1:80/?type=ws&encryption=none&host=mcloud-1.thaivpn.uk&path=%2Fray"
     }, {
       "name": "TH DTAC-NoPRO_MC-1",
       "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=mcloud-1.thaivpn.uk&path=%2Fray"
@@ -40,7 +40,7 @@
       "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@mcloud-1.thaivpn.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
       "name": "TH TRUE-NoPRO_MC-2",
-      "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@true-nopro.thai-vpn.com:80/?type=ws&encryption=none&host=mcloud-2.thaivpn.uk&path=%2Fray"
+      "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@0000:0000:0000:0000:0000:ffff:6812:0ba1:80/?type=ws&encryption=none&host=mcloud-2.thaivpn.uk&path=%2Fray"
     }, {
       "name": "TH DTAC-NoPRO_MC-2",
       "content": "vless://b20d674f-6cac-40c3-891a-7ac83549ba28@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=mcloud-2.thaivpn.uk&path=%2Fray"
