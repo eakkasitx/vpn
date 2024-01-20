@@ -51,6 +51,12 @@
       "name": "TH AIS-AisPlay_3BB",
       "content": "vless://84150085-1d0e-4191-9424-2026b9270a56@wanghin-3bb.thai-vpn.com:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
+      "name": "TH TRUE-NoPRO_Bangmod",
+      "content": "vless://84150085-1d0e-4191-9424-2026b9270a56@true-nopro.thai-vpn.com:80/?type=ws&encryption=none&host=balance-bangmod.thaivpn.uk&path=%2Fray"
+    }, {
+      "name": "TH DTAC-NoPRO_Bangmod",
+      "content": "vless://84150085-1d0e-4191-9424-2026b9270a56@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=balance-bangmod.thaivpn.uk&path=%2Fray"
+    }, {
       "name": "TH TRUE-NoPRO_เอาไว้สำหรับ update",
       "content": "vmess://eyJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo2ODEyOjBiYTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZpc3Blcmhvc3QtMi50aGFpLXZwbi5jb20iLCJpZCI6IjkxYzY4ODIwLTE2ZjAtNGFiMi04M2ZjLWE5ZThhZDEzZDc3ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODg4MCIsInBzIjoid3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
