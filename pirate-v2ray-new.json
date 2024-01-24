@@ -3,28 +3,28 @@
   "message": "ดึงข้อมูลสำเร็จแล้ว กด ยืนยัน",
   "data": [
     {
-      "name": "TH TRUE-NoPRO_IS",
+      "name": "TH TRUE-NoPRO_INSpace",
       "content": "vless://30f8ab7f-c82b-40e8-a463-f8b57e815002@true-nopro.thai-vpn.com:80/?type=ws&encryption=none&host=balance-inspace.thaivpn.uk&path=%2Fray"
     }, {
-      "name": "TH DTAC-NoPRO_IS",
+      "name": "TH DTAC-NoPRO_INSpace",
       "content": "vless://30f8ab7f-c82b-40e8-a463-f8b57e815002@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=balance-inspace.thaivpn.uk&path=%2Fray"
     }, {
-      "name": "TH TRUE-PROGaming_IS",
+      "name": "TH TRUE-PROGaming_INSpace",
       "content": "vless://30f8ab7f-c82b-40e8-a463-f8b57e815002@inspace-1.thaivpn.uk:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     }, {
-      "name": "TH AIS-AisPlay_IS",
+      "name": "TH AIS-AisPlay_INSpace",
       "content": "vless://30f8ab7f-c82b-40e8-a463-f8b57e815002@inspace-1.thaivpn.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http" 
     }, {
-      "name": "TH TRUE-NoPRO_MC",
+      "name": "TH TRUE-NoPRO_MCloud",
       "content": "vless://30f8ab7f-c82b-40e8-a463-f8b57e815002@true-nopro.thai-vpn.com:80/?type=ws&encryption=none&host=balance-mcloud.thaivpn.uk&path=%2Fray"
     }, {
-      "name": "TH DTAC-NoPRO_MC",
+      "name": "TH DTAC-NoPRO_MCloud",
       "content": "vless://30f8ab7f-c82b-40e8-a463-f8b57e815002@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=balance-mcloud.thaivpn.uk&path=%2Fray"
     }, {
-      "name": "TH TRUE-PROGaming_MC",
+      "name": "TH TRUE-PROGaming_MCloud",
       "content": "vless://30f8ab7f-c82b-40e8-a463-f8b57e815002@mcloud-1.thaivpn.uk:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     }, {
-      "name": "TH AIS-AisPlay_MC",
+      "name": "TH AIS-AisPlay_MCloud",
       "content": "vless://30f8ab7f-c82b-40e8-a463-f8b57e815002@mcloud-1.thaivpn.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
     }, {
       "name": "TH TRUE-NoPRO_Games_VH",
