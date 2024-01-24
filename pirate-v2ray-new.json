@@ -57,12 +57,6 @@
       "name": "TH DTAC-NoPRO_Bangmod",
       "content": "vless://30f8ab7f-c82b-40e8-a463-f8b57e815002@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=balance-bangmod.thaivpn.uk&path=%2Fray"
     }, {
-      "name": "TH TRUE-NoPRO_INET",
-      "content": "vless://30f8ab7f-c82b-40e8-a463-f8b57e815002@true-nopro.thai-vpn.com:80/?type=ws&encryption=none&host=inet-1.thai-vpn.com&path=%2Fray"
-    }, {
-      "name": "TH DTAC-NoPRO_INET",
-      "content": "vless://30f8ab7f-c82b-40e8-a463-f8b57e815002@dtac.ddnsgeek.com:80/?type=ws&encryption=none&host=inet-1.thai-vpn.com&path=%2Fray"
-    }, {
       "name": "TH TRUE-NoPRO_เอาไว้สำหรับ update",
       "content": "vmess://eyJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo2ODEyOjBiYTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZpc3Blcmhvc3QtMi50aGFpLXZwbi5jb20iLCJpZCI6IjkxYzY4ODIwLTE2ZjAtNGFiMi04M2ZjLWE5ZThhZDEzZDc3ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODg4MCIsInBzIjoid3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
