@@ -7,6 +7,10 @@
       "name": "TH TRUE-NoPRO 1",
       "detail": "mcloud-1.thaivpn.uk",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-1.thaivpn.uk&path=ray"
-    } 
+    }, {
+      "name": "TH TRUE-NoPRO 2",
+      "detail": "mcloud-3.thai-vpn.com",
+      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-3.thai-vpn.com&path=ray"
+    }
   ]
 }
