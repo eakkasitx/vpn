@@ -4,9 +4,9 @@
   ถ้าเห็นข้อความ กรุณากด ตกลง เพื่ออัพเดต",
   "data": [
     {
-      "name": "TH TRUE-NoPRO",
+      "name": "TH TRUE-NoPRO 1",
       "detail": "mcloud-1.thaivpn.uk",
-      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@true-nopro.thaivpn.uk:80?path=ray&security=none&encryption=none&host=mcloud-1.thaivpn.uk&type=ws#ws"
+      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-1.thaivpn.uk&path=ray"
     } 
   ]
 }
