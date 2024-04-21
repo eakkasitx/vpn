@@ -1,6 +1,6 @@
 {
-  "version": 1.02,
-  "message": "กำลังค่อยๆ ย้ายระบบ server จาก ssh มาเป็น v2ray อาจจะใช้เวลาถึง 2-3 วัน ตอนนี้รองรับแค่ true no-pro และ ขอแจ้งให้ทราบว่า pirate vpn ได้มีการเปลี่ยน password แบบ auto ทุกๆ วัน ถ้าเห็นข้อความเด้งขึ้นมา กรุณากด ยืนยัน เพื่ออัพเดต",
+  "version": "1.02",
+  "message": "กำลังค่อยๆย้ายระบบ server จาก ssh มาเป็น v2ray อาจจะใช้เวลาถึง 2-3 วัน ตอนนี้รองรับแค่ true no-pro และ ขอแจ้งให้ทราบว่าแอพ pirate vpn ได้มีการเปลี่ยน password แบบ auto ทุกๆ วัน ถ้าเห็นข้อความเด้งขึ้นมา กรุณากด ยืนยัน เพื่ออัพเดท",
   "data": [
     {
       "name": "TH TRUE-NoPRO 1",
@@ -16,6 +16,21 @@
       "name": "TH TRUE-NoPRO 3",
       "detail": "visperhost-1.thai-vpn.com",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=visperhost-1.thai-vpn.com&path=ray"
+    },
+    {
+      "name": "TH AIS-Play 1",
+      "detail": "mcloud-1.thaivpn.uk",
+      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@mcloud-1.thaivpn.uk:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 2",
+      "detail": "mcloud-3.thai-vpn.com",
+      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@mcloud-3.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 3",
+      "detail": "visperhost-1.thai-vpn.com",
+      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@visperhost-1.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     }
   ]
 }
