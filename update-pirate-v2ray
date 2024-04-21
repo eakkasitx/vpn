@@ -17,6 +17,21 @@
       "detail": "visperhost-1.thai-vpn.com",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=visperhost-1.thai-vpn.com&path=ray"
     },
+     {
+      "name": "TH TRUE-FBGaming 1",
+      "detail": "mcloud-1.thaivpn.uk",
+      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@mcloud-1.thaivpn.uk:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH TRUE-FBGaming 2",
+      "detail": "mcloud-3.thai-vpn.com",
+      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@mcloud-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH TRUE-FBGaming 3",
+      "detail": "visperhost-1.thai-vpn.com",
+      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@visperhost-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
     {
       "name": "TH AIS-Play 1",
       "detail": "mcloud-1.thaivpn.uk",
