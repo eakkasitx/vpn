@@ -3,64 +3,79 @@
   "message": "กำลังค่อยๆย้ายระบบ server จาก ssh มาเป็น v2ray อาจจะใช้เวลาถึง 2-3 วัน และ ขอแจ้งให้ทราบว่าแอพ pirate vpn ได้มีการเปลี่ยน password แบบ auto ทุกๆ วัน ถ้าเห็นข้อความเด้งขึ้นมา กรุณากด ยืนยัน เพื่ออัพเดท",
   "data": [
     {
-      "name": "TH TRUE-NoPRO 1",
+      "name": "TH TRUE-NoPRO 4",
       "detail": "mcloud-1.thaivpn.uk",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-1.thaivpn.uk&path=ray"
     },
     {
-      "name": "TH TRUE-NoPRO 2",
+      "name": "TH TRUE-NoPRO 5",
       "detail": "mcloud-3.thai-vpn.com",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-3.thai-vpn.com&path=ray"
     },
     {
-      "name": "TH TRUE-NoPRO 3",
+      "name": "TH TRUE-NoPRO 1",
       "detail": "visperhost-1.thai-vpn.com",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=visperhost-1.thai-vpn.com&path=ray"
     },
     {
-      "name": "TH TRUE-NoPRO 4",
+      "name": "TH TRUE-NoPRO 2",
       "detail": "inspace-1.thai-vpn.com",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-1.thai-vpn.com&path=ray"
     },
     {
-      "name": "TH TRUE-FBGaming 1",
+      "name": "TH TRUE-NoPRO 3",
+      "detail": "inspace-3.thai-vpn.com",
+      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-3.thai-vpn.com&path=ray"
+    },
+    {
+      "name": "TH TRUE-FBGaming 4",
       "detail": "mcloud-1.thaivpn.uk",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@mcloud-1.thaivpn.uk:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
-      "name": "TH TRUE-FBGaming 2",
+      "name": "TH TRUE-FBGaming 5",
       "detail": "mcloud-3.thai-vpn.com",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@mcloud-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
-      "name": "TH TRUE-FBGaming 3",
+      "name": "TH TRUE-FBGaming 1",
       "detail": "visperhost-1.thai-vpn.com",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@visperhost-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
-      "name": "TH TRUE-FBGaming 4",
+      "name": "TH TRUE-FBGaming 2",
       "detail": "inspace-1.thai-vpn.com",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@inspace-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
-      "name": "TH AIS-Play 1",
+      "name": "TH TRUE-FBGaming 3",
+      "detail": "inspace-3.thai-vpn.com",
+      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@inspace-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH AIS-Play 4",
       "detail": "mcloud-1.thaivpn.uk",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@mcloud-1.thaivpn.uk:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-Play 2",
+      "name": "TH AIS-Play 5",
       "detail": "mcloud-3.thai-vpn.com",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@mcloud-3.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-Play 3",
+      "name": "TH AIS-Play 1",
       "detail": "visperhost-1.thai-vpn.com",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@visperhost-1.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-Play 4",
+      "name": "TH AIS-Play 2",
       "detail": "inspace-1.thai-vpn.com",
       "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@inspace-1.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 3",
+      "detail": "inspace-3.thai-vpn.com",
+      "content": "vless://8a8cbed8-5477-4766-b0d7-3137d666c3e9@inspace-3.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     }
   ]
 }
