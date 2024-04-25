@@ -1,81 +1,81 @@
 {
-  "version": "1.06",
+  "version": "1.07",
   "message": "ควรสมัครกันรั่วของซิมทรูจะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ. ไม่รวม Vat ความเร็ว 64 kbs",
   "data": [
     {
       "name": "TH TRUE-NoPRO 4",
       "detail": "mcloud-1.thaivpn.uk",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-1.thaivpn.uk&path=ray"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-1.thaivpn.uk&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 5",
       "detail": "mcloud-3.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-3.thai-vpn.com&path=ray"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-3.thai-vpn.com&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 1",
       "detail": "visperhost-1.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=visperhost-1.thai-vpn.com&path=ray"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=visperhost-1.thai-vpn.com&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 2",
       "detail": "inspace-1.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-1.thai-vpn.com&path=ray"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-1.thai-vpn.com&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 3",
       "detail": "inspace-3.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-3.thai-vpn.com&path=ray"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-3.thai-vpn.com&path=ray"
     },
     {
       "name": "TH TRUE-FBGaming 4",
       "detail": "mcloud-1.thaivpn.uk",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@mcloud-1.thaivpn.uk:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@mcloud-1.thaivpn.uk:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
       "name": "TH TRUE-FBGaming 5",
       "detail": "mcloud-3.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@mcloud-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@mcloud-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
       "name": "TH TRUE-FBGaming 1",
       "detail": "visperhost-1.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@visperhost-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@visperhost-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
       "name": "TH TRUE-FBGaming 2",
       "detail": "inspace-1.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@inspace-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@inspace-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
       "name": "TH TRUE-FBGaming 3",
       "detail": "inspace-3.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@inspace-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@inspace-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
       "name": "TH AIS-Play 4",
       "detail": "mcloud-1.thaivpn.uk",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@mcloud-1.thaivpn.uk:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@mcloud-1.thaivpn.uk:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-Play 5",
       "detail": "mcloud-3.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@mcloud-3.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@mcloud-3.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-Play 1",
       "detail": "visperhost-1.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@visperhost-1.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@visperhost-1.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-Play 2",
       "detail": "inspace-1.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@inspace-1.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@inspace-1.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-Play 3",
       "detail": "inspace-3.thai-vpn.com",
-      "content": "vless://d417879e-f609-4886-9c71-d7754eebe702@inspace-3.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@inspace-3.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     }
   ]
 }
