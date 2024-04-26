@@ -1,5 +1,5 @@
 {
-  "version": "1.08",
+  "version": "1.09",
   "message": "ควรสมัครกันรั่วของซิมทรูจะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ. ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
@@ -10,7 +10,7 @@
     {
       "name": "TH TRUE-NoPRO 4",
       "detail": "inspace-2.thai-vpn.com",
-      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-2.thai-vpn.com&path=ray"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-v2ray.thaivpn.uk&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 5",
@@ -25,12 +25,12 @@
     {
       "name": "TH TRUE-NoPRO 2",
       "detail": "inspace-1.thai-vpn.com",
-      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-1.thai-vpn.com&path=ray"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-v2ray.thaivpn.uk&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 3",
       "detail": "inspace-3.thai-vpn.com",
-      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-3.thai-vpn.com&path=ray"
+      "content": "vless://58d8c6c2-b915-4085-b56b-d22da95f4fbb@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-v2ray.thaivpn.uk&path=ray"
     },
     {
       "name": "TH TRUE-FBGaming 6",
