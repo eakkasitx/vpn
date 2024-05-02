@@ -1,31 +1,31 @@
 {
-  "version": "1.14",
+  "version": "1.15",
   "message": "ควรสมัครกันรั่วของซิมทรูจะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ. ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
       "name": "TH TRUE-NoPRO 7",
       "detail": "mcloud-1.thaivpn.uk",
-      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-v2ray.thaivpn.uk&path=ray"
+      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-1.thaivpn.uk&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 4",
       "detail": "readyidc-1.thai-vpn.com",
-      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=readyidc-v2ray.thaivpn.uk&path=ray"
+      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=readyidc-1.thai-vpn.com&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 5",
       "detail": "readyidc-2.thai-vpn.com",
-      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=readyidc-v2ray.thaivpn.uk&path=ray"
+      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=readyidc-2.thai-vpn.com&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 2",
       "detail": "inspace-2.thai-vpn.com",
-      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-v2ray.thaivpn.uk&path=ray"
+      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-2.thai-vpn.com&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 8",
       "detail": "mcloud-3.thai-vpn.com",
-      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-v2ray.thaivpn.uk&path=ray"
+      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-3.thai-vpn.com&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 6",
@@ -40,7 +40,7 @@
     {
       "name": "TH TRUE-NoPRO 3",
       "detail": "inspace-3.thai-vpn.com",
-      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-v2ray.thaivpn.uk&path=ray"
+      "content": "vless://e95162e2-ca98-4902-9678-6668386b10b6@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-3.thai-vpn.com&path=ray"
     },
     {
       "name": "TH TRUE-FBGaming 6",
