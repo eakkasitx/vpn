@@ -1,9 +1,9 @@
 {
-  "version": "1.16",
+  "version": "1.17",
   "message": "ควรสมัครกันรั่วของซิมทรูจะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ. ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
-      "name": "TH TRUE-NoPRO 6",
+      "name": "TH TRUE-NoPRO 5",
       "detail": "mcloud-1.thaivpn.uk",
       "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-1.thaivpn.uk&path=ray"
     },
@@ -18,14 +18,9 @@
       "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-2.thai-vpn.com&path=ray"
     },
     {
-      "name": "TH TRUE-NoPRO 7",
+      "name": "TH TRUE-NoPRO 6",
       "detail": "mcloud-3.thai-vpn.com",
       "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-3.thai-vpn.com&path=ray"
-    },
-    {
-      "name": "TH TRUE-NoPRO 5",
-      "detail": "visperhost-1.thai-vpn.com",
-      "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=visperhost-1.thai-vpn.com&path=ray"
     },
     {
       "name": "TH TRUE-NoPRO 1",
@@ -38,7 +33,7 @@
       "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-3.thai-vpn.com&path=ray"
     },
     {
-      "name": "TH TRUE-FBGaming 6",
+      "name": "TH TRUE-FBGaming 1",
       "detail": "x1.a5f3.watputschool.ac.th",
       "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@mcloud-1.thaivpn.uk:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
@@ -53,11 +48,6 @@
       "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@mcloud-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
-      "name": "TH TRUE-FBGaming 1",
-      "detail": "visperhost-1.thai-vpn.com",
-      "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@visperhost-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
-    },
-    {
       "name": "TH TRUE-FBGaming 2",
       "detail": "inspace-1.thai-vpn.com",
       "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@inspace-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
@@ -68,7 +58,7 @@
       "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@inspace-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
-      "name": "TH AIS-Play 6",
+      "name": "TH AIS-Play 1",
       "detail": "mcloud-1.thaivpn.uk",
       "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@mcloud-1.thaivpn.uk:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     },
@@ -83,11 +73,6 @@
       "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@mcloud-3.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     },
     {
-      "name": "TH AIS-Play 1",
-      "detail": "visperhost-1.thai-vpn.com",
-      "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@visperhost-1.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
-    },
-    {
       "name": "TH AIS-Play 2",
       "detail": "inspace-1.thai-vpn.com",
       "content": "vless://2556adbf-6031-429e-852d-d8d453d88779@inspace-1.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
@@ -99,3 +84,4 @@
     }
   ]
 }
+
