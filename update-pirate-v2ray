@@ -28,7 +28,7 @@
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-3.thai-vpn.com&path=ray"
     },
     {
-      "name": "TH-2 TRUE Facebook Gaming 2",
+      "name": "TH-2 TRUE Facebook Gaming",
       "detail": "x2.a5f3.watputschool.ac.th",
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-2.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
@@ -38,7 +38,7 @@
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
-      "name": "TH-3 TRUE Facebook Gaming 3",
+      "name": "TH-3 TRUE Facebook Gaming",
       "detail": "x3.a5f3.watputschool.ac.th",
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
