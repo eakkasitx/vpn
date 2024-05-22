@@ -1,5 +1,5 @@
 {
-  "version": "1.24",
+  "version": "1.25",
   "message": "ควรสมัครกันรั่วของซิมทรูจะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ. ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
   "data": [
     {
@@ -29,8 +29,8 @@
     },
     {
       "name": "TH TRUE NoPro 4",
-      "detail": "mcloud-3.thai-vpn.com",
-      "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=mcloud-3.thai-vpn.com&path=ray"
+      "detail": "readyidc-5.thai-vpn.com",
+      "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=readyidc-5.thai-vpn.com&path=ray"
     },
     {
       "name": "TH-2 TRUE Facebook Gaming",
