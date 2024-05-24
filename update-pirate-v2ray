@@ -23,14 +23,14 @@
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-3.thai-vpn.com&path=ray"
     },
     {
-      "name": "TH TRUE NoPro 5",
-      "detail": "readyidc-1.thai-vpn.com",
-      "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=readyidc-1.thai-vpn.com&path=ray"
-    },
-    {
       "name": "TH TRUE NoPro 4",
       "detail": "readyidc-5.thai-vpn.com",
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=readyidc-5.thai-vpn.com&path=ray"
+    },
+    {
+      "name": "TH TRUE NoPro 5",
+      "detail": "readyidc-1.thai-vpn.com",
+      "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=readyidc-1.thai-vpn.com&path=ray"
     },
     {
       "name": "TH TRUE NoPro 6",
@@ -43,14 +43,14 @@
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=bangmod-1.thai-vpn.com&path=ray"
     },
     {
-      "name": "TH-2 TRUE Facebook Gaming",
-      "detail": "x2.a5f3.watputschool.ac.th",
-      "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-2.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
-    },
-    {
       "name": "TH-1 TRUE Facebook Gaming",
       "detail": "x1.a5f3.watputschool.ac.th",
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-2 TRUE Facebook Gaming",
+      "detail": "x2.a5f3.watputschool.ac.th",
+      "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-2.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
       "name": "TH-3 TRUE Facebook Gaming",
@@ -63,14 +63,14 @@
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@bangmod-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
-      "name": "TH AIS-Play 2",
-      "detail": "inspace-2.thai-vpn.com",
-      "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-2.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
-    },
-    {
       "name": "TH AIS-Play 1",
       "detail": "inspace-1.thai-vpn.com",
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-1.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-Play 2",
+      "detail": "inspace-2.thai-vpn.com",
+      "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-2.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
     },
     {
       "name": "TH AIS-Play 3",
