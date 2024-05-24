@@ -43,6 +43,11 @@
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=bangmod-1.thai-vpn.com&path=ray"
     },
     {
+      "name": "TH TRUE NoPro 8",
+      "detail": "inspace-7.thai-vpn.com",
+      "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=inspace-7.thai-vpn.com&path=ray"
+    }
+    {
       "name": "TH-1 TRUE Facebook Gaming",
       "detail": "x1.a5f3.watputschool.ac.th",
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
