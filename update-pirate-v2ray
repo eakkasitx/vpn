@@ -4,7 +4,7 @@
   "data": [
     {
       "name": "TH TRUE NoPro 0",
-      "detail": "x4.a5f3.watputschool.ac.th",
+      "detail": "lb-v2ray-all.thaivpn.uk",
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@true-nopro.thaivpn.uk:80/?type=ws&encryption=none&flow=&host=lb-v2ray-all.thaivpn.uk&path=ray"
     },
     {
@@ -49,22 +49,22 @@
     },
     {
       "name": "TH-1 TRUE Facebook Gaming",
-      "detail": "x1.a5f3.watputschool.ac.th",
+      "detail": "inspace-1.thai-vpn.com",
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
       "name": "TH-2 TRUE Facebook Gaming",
-      "detail": "x2.a5f3.watputschool.ac.th",
+      "detail": "inspace-2.thai-vpn.com",
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-2.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
       "name": "TH-3 TRUE Facebook Gaming",
-      "detail": "x3.a5f3.watputschool.ac.th",
+      "detail": "inspace-3.thai-vpn.com",
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@inspace-3.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
       "name": "TH-4 TRUE Facebook Gaming",
-      "detail": "x4.a5f3.watputschool.ac.th",
+      "detail": "bangmod-1.thai-vpn.com",
       "content": "vless://ddd9b658-cdc3-485c-b75d-93e7e71d7d54@bangmod-1.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
     },
     {
